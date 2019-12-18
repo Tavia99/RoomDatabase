@@ -77,3 +77,4 @@ public class DetailActivity extends AppCompatActivity {
         myRecyclerview.setAdapter(recycleAdapter);
     }
 }
+
